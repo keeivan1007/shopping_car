@@ -11,6 +11,7 @@
 【框架】
 
 Django → HTML (UI) → AJAX →  Django(View) →   Python (Object)    →    HTML (UI)
+
          訪問網頁    傳遞值     傳回Sever    物件初始化(計算、結帳)   結帳完成畫面
          
          
